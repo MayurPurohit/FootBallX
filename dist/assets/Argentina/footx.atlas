@@ -1,0 +1,233 @@
+footx.png
+size:1779,1796
+filter:Linear,Linear
+pma:true
+ball (10)
+bounds:298,270,150,150
+ball (11)
+bounds:298,118,150,150
+ball (12)
+bounds:450,105,150,150
+ball (13)
+bounds:925,580,150,150
+ball (14)
+bounds:1154,588,150,150
+ball (15)
+bounds:527,311,150,150
+ball (16)
+bounds:1201,1084,150,150
+ball (17)
+bounds:1353,1109,150,150
+ball (18)
+bounds:1505,1076,150,150
+ball (19)
+bounds:1353,957,150,150
+ball (2)
+bounds:1505,924,150,150
+ball (20)
+bounds:1331,805,150,150
+ball (21)
+bounds:1483,772,150,150
+ball (22)
+bounds:1331,653,150,150
+ball (23)
+bounds:1483,620,150,150
+ball (24)
+bounds:1306,501,150,150
+ball (25)
+bounds:1154,436,150,150
+ball (26)
+bounds:1458,468,150,150
+ball (27)
+bounds:1306,349,150,150
+ball (28)
+bounds:1458,316,150,150
+ball (29)
+bounds:1610,468,150,150
+ball (3)
+bounds:1610,316,150,150
+ball (30)
+bounds:686,360,150,150
+ball (31)
+bounds:838,337,150,150
+ball (32)
+bounds:990,317,150,150
+ball (33)
+bounds:1142,284,150,150
+ball (34)
+bounds:1294,197,150,150
+ball (4)
+bounds:1446,164,150,150
+ball (5)
+bounds:1598,164,150,150
+ball (6)
+bounds:679,208,150,150
+ball (7)
+bounds:831,185,150,150
+ball (8)
+bounds:983,165,150,150
+ball (9)
+bounds:1135,132,150,150
+burtis chrdili
+bounds:833,920,448,51
+offsets:50,7,550,64
+burtischrdili2
+bounds:1287,45,150,150
+mdzirs
+bounds:508,1236,719,558
+mdzirsxel
+bounds:327,499,203,267
+offsets:1,1,205,269
+mfebuc1
+bounds:711,512,199,74
+mfebuc2
+bounds:327,422,198,75
+mfex1
+bounds:792,112,71,108
+rotate:90
+mfex2
+bounds:401,2,85,101
+mfex3
+bounds:975,82,88,81
+mfex4
+bounds:1657,920,78,98
+mfex5
+bounds:1635,659,86,113
+mfexshort1
+bounds:1157,740,172,178
+mfexshort2
+bounds:1229,1261,288,245
+mfexshort3
+bounds:1439,28,150,134
+mfexshort33
+bounds:975,741,180,177
+mfexshort4
+bounds:2,14,153,242
+rotate:90
+mfexshort44
+bounds:508,783,153,242
+rotate:90
+mfexshortchrdil
+bounds:1591,23,139,139
+mfexterf1
+bounds:711,588,142,212
+rotate:90
+mfexwind
+bounds:246,22,94,153
+rotate:90
+mmfex1
+bounds:602,163,70,114
+mmfex10
+bounds:1519,1290,177,253
+rotate:90
+mmfex2
+bounds:450,257,75,163
+mmfex3
+bounds:1673,1208,80,104
+rotate:90
+mmfex4
+bounds:1065,469,87,105
+mmfex5
+bounds:1077,576,75,163
+mmfex6
+bounds:532,528,177,253
+mmfex7
+bounds:1635,774,124,144
+mmfex8
+bounds:902,79,104,71
+offsets:0,2,104,73
+rotate:90
+mmfex9
+bounds:1657,1020,128,76
+rotate:90
+mmxel1
+bounds:1519,1228,60,152
+rotate:90
+mmxel2
+bounds:1129,71,59,82
+offsets:1,0,60,82
+rotate:90
+mmxel3
+bounds:674,124,82,116
+rotate:90
+mmxel4
+bounds:1201,998,84,149
+rotate:90
+mmxel5
+bounds:1213,94,36,69
+offsets:1,0,37,69
+rotate:90
+mmxel6
+bounds:1127,977,72,257
+mmxel7
+bounds:1723,714,54,58
+offsets:0,0,54,59
+mmxel8
+bounds:1723,671,52,41
+mmxel9
+bounds:828,10,51,34
+offsets:1,1,52,35
+msaxe1
+bounds:2,468,323,298
+msaxe1b
+bounds:508,938,323,296
+msaxe2
+bounds:1229,1508,313,286
+msaxe3
+bounds:833,973,292,261
+msaxe4
+bounds:2,169,294,297
+mtani
+bounds:1544,1469,233,325
+mtasm1
+bounds:899,34,43,79
+rotate:90
+mtasm2
+bounds:1229,1237,22,79
+rotate:90
+mtasmchrdil1
+bounds:1635,622,35,84
+offsets:1,3,37,89
+rotate:90
+mtasmchrdil2
+bounds:1201,977,19,81
+offsets:0,2,21,86
+rotate:90
+mtma3
+bounds:752,732,186,221
+rotate:90
+mtval1
+bounds:527,279,125,30
+mtval2
+bounds:1735,1038,110,40
+rotate:90
+mtval3
+bounds:792,2,42,34
+rotate:90
+mtval4
+bounds:682,14,108,30
+mtval5
+bounds:1657,1150,120,56
+mxel1
+bounds:912,489,89,151
+rotate:90
+mxelmklav
+bounds:532,463,63,152
+rotate:90
+mxeltit1
+bounds:602,117,44,65
+rotate:90
+mxeltit2
+bounds:682,46,106,76
+myel1
+bounds:1065,65,62,98
+myel2
+bounds:616,2,64,108
+myel3
+bounds:790,46,64,107
+rotate:90
+myel4
+bounds:488,13,90,126
+rotate:90
+simagle
+bounds:2,768,504,1026
